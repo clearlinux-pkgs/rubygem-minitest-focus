@@ -4,7 +4,7 @@
 #
 Name     : rubygem-minitest-focus
 Version  : 1.1.2
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/minitest-focus-1.1.2.gem
 Source0  : https://rubygems.org/downloads/minitest-focus-1.1.2.gem
 Summary  : No detailed summary available
@@ -55,25 +55,15 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/minitest-focus-1.1.2.gem
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-focus-1.1.2/ri/MiniTest/Unit/TestCase/cdesc-TestCase.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-focus-1.1.2/ri/MiniTest/Unit/cdesc-Unit.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-focus-1.1.2/ri/MiniTest/cdesc-MiniTest.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-focus-1.1.2/ri/Minitest/Test/Focus/cdesc-Focus.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-focus-1.1.2/ri/Minitest/Test/cdesc-Test.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-focus-1.1.2/ri/Minitest/cdesc-Minitest.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-focus-1.1.2/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-focus-1.1.2/ri/page-History_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-focus-1.1.2/ri/page-Manifest_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-focus-1.1.2/ri/page-README_txt.ri
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-focus-1.1.2/.autotest
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-focus-1.1.2/.gemtest
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-focus-1.1.2/History.txt
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-focus-1.1.2/Manifest.txt
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-focus-1.1.2/README.txt
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-focus-1.1.2/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-focus-1.1.2/lib/minitest/focus.rb
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-focus-1.1.2/lib/minitest/focus4.rb
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-focus-1.1.2/lib/minitest/focus5.rb
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-focus-1.1.2/test/minitest/test_focus.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/minitest-focus-1.1.2.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/minitest-focus-1.1.2.gem
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-focus-1.1.2/.autotest
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-focus-1.1.2/.gemtest
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-focus-1.1.2/History.txt
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-focus-1.1.2/Manifest.txt
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-focus-1.1.2/README.txt
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-focus-1.1.2/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-focus-1.1.2/lib/minitest/focus.rb
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-focus-1.1.2/lib/minitest/focus4.rb
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-focus-1.1.2/lib/minitest/focus5.rb
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-focus-1.1.2/test/minitest/test_focus.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/minitest-focus-1.1.2.gemspec
