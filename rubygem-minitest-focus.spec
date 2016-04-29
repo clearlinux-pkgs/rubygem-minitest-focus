@@ -4,7 +4,7 @@
 #
 Name     : rubygem-minitest-focus
 Version  : 1.1.2
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/minitest-focus-1.1.2.gem
 Source0  : https://rubygems.org/downloads/minitest-focus-1.1.2.gem
 Summary  : No detailed summary available
